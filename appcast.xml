@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Sqre</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Tue, 17 Nov 2026 20:44:00 +0000</pubDate>
+            <link>https://alexforman1.github.io/sqre-releases/</link>
+            <sparkle:version>0.1.0</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/alexforman1/sqre-releases/releases/download/mac-v0.1.0/Sqre.dmg" length="332887017" type="application/octet-stream" sparkle:edSignature="7JSm7nAtJy9C/DsuM8j9Na002M50xZWmlZpNlC6KN1GfISD9FoxROrjCuXv5xWHQ4hXELjpwBkilpuz4wCRfCw=="/>
+        </item>
+    </channel>
+</rss>
